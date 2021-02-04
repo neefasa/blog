@@ -23,7 +23,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/neefasa
+  repo:              https://github.com/blog
 
 # Gems
 gems:
@@ -32,6 +32,6 @@ gems:
 
 # Page List
 pages_list:
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/index.html'
+  About: '/blog/about'
+  Archive: '/blog/archive'
+  Feed: '/blog/index.html'
