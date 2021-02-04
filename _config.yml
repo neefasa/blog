@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Nick Foster
+title:               Nick Foster's blog
 tagline:             A Moderately Okay Data Science Blog
-url:                 http://neefasa.github.io/blog
+url:                 http://neefasa.github.io/
 paginate:            2
-baseurl:             ""
+baseurl:             /blog
 
 # Assets
 #
