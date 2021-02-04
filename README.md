@@ -1,4 +1,4 @@
 # "Blog" Posts
 
-An attempt at blogging on GitHub. Check it out [here](neefasa.github.io/blog)
+An attempt at blogging on GitHub. Check it out [here](https://neefasa.github.io/blog)
 
