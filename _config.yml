@@ -32,6 +32,6 @@ gems:
 
 # Page List
 pages_list:
-  About: '/blog/about'
-  Archive: '/blog/archive'
-  Feed: '/blog/index.html'
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
